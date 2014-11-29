@@ -10,4 +10,3 @@ def js(file_name, encoding='utf8'):
             if '//' in l:
                 l = l.split('//')[0].strip()
             elif '/*' in l:
-
