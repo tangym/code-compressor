@@ -1,0 +1,1 @@
+python C:\Python34\Scripts\cxfreeze main.py --target-dir .\bin\ --base-name=Win32GUI
